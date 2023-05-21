@@ -23,6 +23,8 @@ main{
   background-color:#eee;
 }
 
+
+
 .step-img1{
   height:150px;
   background-image:url(img/flow01.png);
@@ -53,7 +55,8 @@ main{
 }
 
 .title{
-  margin:50px 0 5px;
+  margin-top:15px;
+margin-bottom: 5px;
 }
 
 footer{
@@ -66,11 +69,12 @@ footer{
   main{
     width:100%;
     display:block;
+    margin:50px auto;
   }
 
   .step-box{
     width:90%;
-    margin-bottom:20px;
+    margin:0 auto 20px auto;
   }
 
 
